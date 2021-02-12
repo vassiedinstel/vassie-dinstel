@@ -7,7 +7,7 @@ Kate Holterhoff, Joe Essey
 # _Project URL:_
 http://www.visualhaggard.org/
 
-![homepage](https://vassiedinstel.github.io/vassie-dinstel/images/ScreenShot2021-02-12at12.30.03PM.png)
+![homepage](https://vassiedinstel.github.io/vassie-dinstel/images/visualhaggardhomepage.png)
 
 ## _Summary_ 
 _Visual Haggard_ is a digital archive whose goal is to revitalize the works of Victorian novelist Sir Henry Rider Haggard. It is a combination library 
