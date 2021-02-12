@@ -1,34 +1,33 @@
-# _Project:_
-_Visual Haggard_
+# Review One
 
-# _Project Directors:_
-Kate Holterhoff, Joe Essey 
+## _Project:_ _Visual Haggard_
 
-# _Project URL:_
-http://www.visualhaggard.org/
+## _Project Directors:_ Kate Holterhoff, Joe Essey 
+
+## _Project URL:_ http://www.visualhaggard.org/
 
 ![homepage](https://vassiedinstel.github.io/vassie-dinstel/images/visualhaggardhomepage.png)
 
-## _Summary_ 
+### _Summary_ 
 _Visual Haggard_ is a digital archive whose goal is to revitalize the works of Victorian novelist Sir Henry Rider Haggard. It is a combination library 
 and gallery, with information on Haggard’s novels and their illustrators, along with an in-depth biography on his life. 
 > “The aim of Visual Haggard is to make many, and hopefully someday all, illustrated editions of Haggard's novels available 
 in one scholarly resource.” - Kate Holterhoff, _Editor_
 
-## _Design_ 
+### _Design_ 
 Ruby and Java stacks. There are five tabs at the top: a link to the home page,  _Novels_, _Illustrators_, _Biography_, and _Editor’s Statement_, as well as a search bar. There are two paragraphs on the page, one describing the project, and one explaining how to use it. I appreciated this because I was immediately introduced to the website. The three images on the bottom of the homepage all lead to the _Novels_ tab, however they show no indication that they are embedded with links. There are no captions or instructions around them, which makes it difficult to use. There are two embedded links that remain on the bottom of the screen, labeled _Tweet at us!_ which leads to Twitter, and _About Us_ which leads to a short description of the two project directors. 
 
-## _Relevance_ 
+### _Relevance_ 
 _Visual Haggard_ combines English literature and art with technology. 
 
-## _Credit_ 
+### _Credit_ 
 Underneath the _Editor’s Statement_, there is an acknowledgement section, thanking someone for editing a previous version of the project. There is also an 
 expression of gratitude toward people’s ongoing support of the project, although it does not state if it was financially. Finally, there is a works cited 
 header, which credits roughly forty websites for the information.
 
 ![novels image](https://vassiedinstel.github.io/vassie-dinstel/images/vhtrail.png)
 
-## _Findings_
+### _Findings_
 The _Novels_ and _Illustrators_ tabs both use images in alphabetical order to lead to specific works. Each image can lead to further images, 
 becoming a nesting doll, but there is a trail of sites that appear at the top so you can easily maneuver back to the original image. (Shown above)
 The  _Biography_ tab is simply paragraphs about Haggard’s life. While there are headings, they are given little importance over the other words; they are 
