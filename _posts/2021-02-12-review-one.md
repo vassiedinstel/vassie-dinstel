@@ -30,7 +30,7 @@ header, which credits roughly forty websites for the information.
 
 ## _Findings_
 The _Novels_ and _Illustrators_ tabs both use images in alphabetical order to lead to specific works. Each image can lead to further images, 
-becoming a nesting doll, but there is a trail of sites that appear at the top so you can easily maneuver back to the original image. 
+becoming a nesting doll, but there is a trail of sites that appear at the top so you can easily maneuver back to the original image. (Shown above)
 The  _Biography_ tab is simply paragraphs about Haggard’s life. While there are headings, they are given little importance over the other words; they are 
 numbered with Roman numerals, but in the same size font and not in bold or italics, so they are easily looked over. This makes it difficult for someone merely 
 skimming to understand the content of what they are reading. Finally, there is the _Editor’s Statement_ tab, which consists of twenty lengthy paragraphs broken 
