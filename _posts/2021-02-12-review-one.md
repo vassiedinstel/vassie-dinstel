@@ -2,7 +2,7 @@
 
 ## _Project:_ _Visual Haggard_
 
-## _Project Directors:_ Kate Holterhoff, Joe Essey 
+## _Project Directors:_ Kate Holterhoff and Joe Essey 
 
 ## _Project URL:_ http://www.visualhaggard.org/
 
