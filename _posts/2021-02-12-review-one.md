@@ -26,6 +26,8 @@ Underneath the _Editor’s Statement_, there is an acknowledgement section, than
 expression of gratitude toward people’s ongoing support of the project, although it does not state if it was financially. Finally, there is a works cited 
 header, which credits roughly forty websites for the information.
 
+![novels image](https://vassiedinstel.github.io/vassie-dinstel/images/vhtrail.png)
+
 ## _Findings_
 The _Novels_ and _Illustrators_ tabs both use images in alphabetical order to lead to specific works. Each image can lead to further images, 
 becoming a nesting doll, but there is a trail of sites that appear at the top so you can easily maneuver back to the original image. 
