@@ -15,10 +15,12 @@ and gallery, with information on Haggard’s novels and their illustrators, alon
 in one scholarly resource.” - Kate Holterhoff, _Editor_
 
 ### _Design_ 
-Ruby and Java stacks. There are five tabs at the top: a link to the home page,  _Novels_, _Illustrators_, _Biography_, and _Editor’s Statement_, as well as a search bar. There are two paragraphs on the page, one describing the project, and one explaining how to use it. I appreciated this because I was immediately introduced to the website. The three images on the bottom of the homepage all lead to the _Novels_ tab, however they show no indication that they are embedded with links. There are no captions or instructions around them, which makes it difficult to use. There are two embedded links that remain on the bottom of the screen, labeled _Tweet at us!_ which leads to Twitter, and _About Us_ which leads to a short description of the two project directors. 
+There are five tabs at the top: a link to the home page,  _Novels_, _Illustrators_, _Biography_, and _Editor’s Statement_, as well as a search bar. There are two paragraphs on the page, one describing the project, and one explaining how to use it. I appreciated this because I was immediately introduced to the website. The three images on the bottom of the homepage all lead to the _Novels_ tab, however they show no indication that they are embedded with links. There are no captions or instructions around them, which makes it difficult to use. There are two embedded links that remain on the bottom of the screen, labeled _Tweet at us!_ which leads to Twitter, and _About Us_ which leads to a short description of the two project directors. Site is created using Ruby and Java stacks. 
 
 ### _Relevance_ 
-_Visual Haggard_ combines English literature and art with technology. 
+_Visual Haggard_ combines English literature and art with technology. The use of interactive images is engaging, and relevant to the majority of people
+on the internet. The expansive combination library and gallery is informative, if a bit overwhelming. However the easy navigation back to the orignal image makes it 
+a little less daunting. 
 
 ### _Credit_ 
 Underneath the _Editor’s Statement_, there is an acknowledgement section, thanking someone for editing a previous version of the project. There is also an 
@@ -30,10 +32,16 @@ header, which credits roughly forty websites for the information.
 ### _Findings_
 The _Novels_ and _Illustrators_ tabs both use images in alphabetical order to lead to specific works. Each image can lead to further images, 
 becoming a nesting doll, but there is a trail of sites that appear at the top so you can easily maneuver back to the original image. (Shown above)
+
 The  _Biography_ tab is simply paragraphs about Haggard’s life. While there are headings, they are given little importance over the other words; they are 
 numbered with Roman numerals, but in the same size font and not in bold or italics, so they are easily looked over. This makes it difficult for someone merely 
-skimming to understand the content of what they are reading. Finally, there is the _Editor’s Statement_ tab, which consists of twenty lengthy paragraphs broken 
-up by three subheadings. In this day in age, no one is going to read all of that. Overall, the site is easily navigated, with an extensive library and background 
-on his life and contributions. This is an excellent use of Digital Humanities to explore the works of Haggard. If the tab is not full screen, or you are using a 
-cellphone, the tabs at the top do not appear, so you have to use the images at the bottom to link to _Novels_ or type in the search bar. All other information is
-inaccessible. It could benefit from a mobile friendly version, more concise language, and more subheadings within the Biography and Editor’s Statement. 
+skimming to understand the content of what they are reading. 
+
+Finally, there is the _Editor’s Statement_ tab, which consists of twenty lengthy paragraphs broken up by three subheadings. 
+In this day in age, no one is going to read all of that. It could benefit from being more concise and breaking up the paragraphs.
+
+If the tab is not full screen, or you are using a cellphone, the tabs at the top do not appear, so you have to use the images at the 
+bottom to link to _Novels_ or type in the search bar. All other information isinaccessible. It could benefit from a mobile friendly 
+version, more concise language, and more subheadings within the Biography and Editor’s Statement. Overall, the site is easily navigated, 
+with an extensive library and background on his life and contributions. This is an excellent use of Digital Humanities to explore the works 
+of Haggard and bring English literature to more people. 
