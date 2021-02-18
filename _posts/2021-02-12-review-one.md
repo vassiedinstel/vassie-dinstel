@@ -6,7 +6,7 @@
 
 ## _Project URL:_ http://www.visualhaggard.org/
 
-##_Project Reviewer:_ Vassie Dinstel
+## _Project Reviewer:_ Vassie Dinstel
 
 ![homepage](https://vassiedinstel.github.io/vassie-dinstel/images/visualhaggardhomepage.png)
 
