@@ -1,6 +1,6 @@
 # Review on _Records of Early English Drama_
 
-## _Project:_ Records of Early English Drama
+## _Project:_ _Records of Early English Drama_
 
 ## _Project Directors:_ Sally-Beth MacLean and Stephen Johnson
 
