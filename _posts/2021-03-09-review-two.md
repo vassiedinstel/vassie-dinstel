@@ -13,10 +13,8 @@
 ### _Summary_
 _Records of Early English Drama_  is a website organizing data about performances, patrons, venues, and troupes in England before 1642. They focus on traveling medieval and renaissance entertainment, who performed, attended, and where the performances took place.
 
-![patrons](https://vassiedinstel.github.io/vassie-dinstel/images/patrons.png)
-
 ###  _Design_
-This database is organized by tabs at the top labeled _Patrons_, _Venues_, _Troupes_, _Events_, Bibliography_, _Maps_,  _About_, _Tagged Records_, _OTRA_, and _Login_. Underneath is a gallery of clickable images, each leading to a different tab. However there is no indication to which tab it leads, and they are in no particular order. At the bottom of the homepage there is a map of the UK, the same one found in the _Venues_ tab.
+This database is organized by tabs at the top labeled _Patrons_, _Venues_, _Troupes_, _Events_, Bibliography_, _Maps_,  _About_, _Tagged Records_, _OTRA_, and _Login_. Underneath is a gallery of clickable images, seen above, each leading to a different tab. However there is no indication to which tab it leads, and they are in no particular order. At the bottom of the homepage there is a map of the UK, the same one found in the _Venues_ tab.
 
 From _Patrons_ to _Events_ the tab leads to a different page with a unique search system at the top, and an alphabetical list underneath, as seen above. In addition to this, the _Venues_  tab, seen below, has an interactive map at the top that when clicked, gives more information about the venue including an overview, performance history, and additional images. 
 
