@@ -29,3 +29,4 @@ This project has a Bibliography tab that lists sources by subject, with an optio
 ### _Findings_
 Each tab leads to an alphabetical list of general information that, when clicked, leads to an in-depth description of the patron, venue, troupe, or event. This made the site easy to navigate and I was able to learn more information about specific areas. The amount of data would be overwhelming, but the organization through tabs, alphabetical ordering, and advanced search engines makes it easy to use. The site does not render on mobile devices, which makes it difficult for those without access to a computer to use, thus hindering its accessibility. Aside from the clickable images that lead to unidentified tabs, everything is clearly labeled and the overall use of the site is intuitive.
 
+Overall, _Records of Early English Drama_ is 
