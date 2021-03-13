@@ -27,6 +27,9 @@ This is a prime example of combining history, theater, theater history, and tech
 This project has a Bibliography tab that lists sources by subject, with an option for all bibliographic sources in alphabetical order. Sources are also listed at the bottom of each page.
 
 ### _Findings_
-Each tab leads to an alphabetical list of general information that, when clicked, leads to an in-depth description of the patron, venue, troupe, or event. This made the site easy to navigate and I was able to learn more information about specific areas. The amount of data would be overwhelming, but the organization through tabs, alphabetical ordering, and advanced search engines makes it easy to use. The site does not render on mobile devices, which makes it difficult for those without access to a computer to use, thus hindering its accessibility. Aside from the clickable images that lead to unidentified tabs, everything is clearly labeled and the overall use of the site is intuitive.
 
-Overall, _Records of Early English Drama_ is 
+The _Patrons_, _Venues_, _Troupes_, and _Events_ tabs all lead to an alphabetical list of general information that, when clicked, leads to an in-depth description of the patron, venue, troupe, or event. This made the site easy to navigate and I was able to learn more information about specific areas. The amount of data would be overwhelming, but the organization through tabs, alphabetical ordering, and advanced search engines makes it easy to use.
+
+The _Maps_ tab leads to three images of Antiquarian maps of different locations in Great Britain. They are illegible, but the description gives more background on the map, and it is possible to zoom in to better see the intricate details.
+
+Overall, _Records of Early English Drama_ is a database providing information about English theater before the 1640s. The amount of information is impressive, as is the site's ease of use. The site does not render on mobile devices, which makes it difficult for those without access to a computer to use, thus hindering its accessibility. Aside from this and the clickable images that lead to unidentified tabs, everything is clearly labeled and the altogether use of the site is intuitive. This is a paradigm of Digital Humanities bringing previously unknown research to your fingertips.
