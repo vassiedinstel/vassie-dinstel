@@ -16,7 +16,7 @@ Van Gogh’s _Starry Night_ being brought to life with movement, music, and 3D m
 
 Collaborating with a partner allowed for more ideas and work to be done. I learned more about the process of writing a grant, and the different pieces required. I had never heard of an environmental scan, and found it helpful leading into the grant narrative. 
 
-![grant process](https://vassiedinstel.github.io/vassie-dinstel/images/)
+![grant process](https://vassiedinstel.github.io/vassie-dinstel/images/twitter.png)
 
 ## Class Reflection
 
